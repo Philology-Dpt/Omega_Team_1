@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How AI is undermining learning and teaching in universities</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251003T080608Z" creationid="user" creationdate="20251003T080608Z">
+        <seg>Как МА подрывает обучение и преподавание в университетах</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
