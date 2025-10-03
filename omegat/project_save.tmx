@@ -44,6 +44,14 @@
         <seg>Аргумент о том, что овладение ИИ - это жизненные навыки, необходимые студентам для подготовки рынка &lt;t4/&gt; труда&lt;t5/&gt; , неубедителен.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>University &lt;t0/&gt;of&lt;t1/&gt; York</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251003T154938Z" creationid="user" creationdate="20251003T154938Z">
+        <seg>Йоркский университет</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
