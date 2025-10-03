@@ -12,6 +12,14 @@
         <seg>Как МА подрывает обучение и преподавание в университетах</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The argument that mastering AI is a life skill that students need in preparation for the &lt;t4/&gt;labour&lt;t5/&gt; market is unconvincing.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251003T081145Z" creationid="user" creationdate="20251003T081145Z">
+        <seg>Аргумент о том, что овладение ИИ - это жизненные навыки, необходимые студентам для подготовки рынка &lt;t4/&gt; труда&lt;t5/&gt; , неубедителен.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
