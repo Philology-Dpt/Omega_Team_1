@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Student misuse of generative AI is widespread.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251003T081916Z" creationid="user" creationdate="20251003T081916Z">
+        <seg>Широко распространены случаи неправильного использования ИИ студентами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The argument that mastering AI is a life skill that students need in preparation for the &lt;t4/&gt;labour&lt;t5/&gt; market is unconvincing.</seg>
       </tuv>
       <tuv lang="ru" changeid="user" changedate="20251003T081145Z" creationid="user" creationdate="20251003T081145Z">
